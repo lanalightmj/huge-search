@@ -1,0 +1,18 @@
+.vertical-align-top {
+	vertical-align: top;
+}
+
+.vertical-align-middle {
+	vertical-align: middle;
+}
+
+.vertical-align-bottom {
+	vertical-align: bottom;
+}
+
+/* Circle Elements */
+.circle {
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	border-radius: 50%;
+}
